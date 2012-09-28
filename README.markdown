@@ -87,4 +87,4 @@ Please see http://www.tree.io/ or contact info@tree.io for more details.
 Acknowledgements
 ================
 
-French translation contributed by morago.com
+French translation contributed by morgao.com
